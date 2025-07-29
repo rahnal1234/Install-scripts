@@ -1,0 +1,12 @@
+com.bitwarden.desktop
+io.gitlab.librewolf-community
+com.vivaldi.Vivaldi
+com.spotify.Client
+com.github.zadam.trilium
+eu.betterbird.Betterbird
+org.cryptomator.Cryptomator
+org.videolan.VLC
+org.kde.kate
+com.discordapp.Discord
+com.valvesoftware.Steam
+com.visualstudio.code

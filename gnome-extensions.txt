@@ -1,0 +1,11 @@
+dash-to-dock@micxgx.gmail.com
+appindicatorsupport@rgcjonas.gmail.com
+gsconnect@andyholmes.github.io
+azwallpaper@azwallpaper.gitlab.com
+places-menu@gnome-shell-extensions.gcampax.github.com
+system-monitor@gnome-shell-extensions.gcampax.github.com
+docker@stickman_0x00.com
+apps-menu@gnome-shell-extensions.gcampax.github.com
+background-logo@fedorahosted.org
+launch-new-instance@gnome-shell-extensions.gcampax.github.com
+window-list@gnome-shell-extensions.gcampax.github.com
