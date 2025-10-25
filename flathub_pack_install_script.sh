@@ -3,7 +3,7 @@ readarray -t FLATHUB_PROGRAMS < ./flathub_installs.txt
 
 #GNOME Extensions und Tweaks installieren
 flatpak install -y flathub org.gnome.Extensions 
-flatpak install -y flathub gnome-tweaks
+##flatpak install -y flathub gnome-tweaks
 
 #Die Flathub Programme nach Array installieren
 for i in "${FLATHUB_PROGRAMS[@]}"
