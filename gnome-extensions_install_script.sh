@@ -1,4 +1,5 @@
 #Installation der benötigten Software
+sudo dnf install gnome-tweaks
 sudo dnf install -y pip3 pipx && pipx install gnome-extensions-cli
 
 #Überprüfen, ob vorheriges command erfolgreich war
